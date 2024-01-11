@@ -8395,6 +8395,15 @@
   resolved "https://registry.yarnpkg.com/@tabler/icons/-/icons-2.40.0.tgz#96cecc990a03412b88194ce3765280d2e63c1be6"
   integrity sha512-VqKsBSX159cLFTnCzkCmGhZtSPJHNN0lM2sC4xe0HPOfPUnjiex7rDHDdut4oe4iKRecDDpwXwM9BcU6xCPlCg==
 
+"@tiplink/wallet-adapter-react-ui@^0.1.1":
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@tiplink/wallet-adapter-react-ui/-/wallet-adapter-react-ui-0.1.1.tgz#d1b01a7fbe3239d304e9f4b5dcce1f026e3bc179"
+  integrity sha512-ppjxfaygkK0o7lKj7Ly18lyz+D11O59tpgjuDWG1s1w9etdA3EAfeh/i9Gt5rdGTZ1q/MAhcZzYmoXsRgYesDg==
+  dependencies:
+    "@solana/wallet-adapter-base" "^0.9.23"
+    "@solana/wallet-adapter-base-ui" "^0.1.2"
+    "@solana/wallet-adapter-react" "^0.15.35"
+
 "@tiplink/wallet-adapter@^0.1.5":
   version "0.1.5"
   resolved "https://registry.yarnpkg.com/@tiplink/wallet-adapter/-/wallet-adapter-0.1.5.tgz#2751037e94b2635cb46cd6838353ed5db833f914"
